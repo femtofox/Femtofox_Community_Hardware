@@ -1,4 +1,4 @@
-### Ordering the PCBs
+# Ordering the PCBs
 
  1. Select the [release files](tbc) that suit your requirements. 
  2. Upload the Gerber file (which is bundled as a .zip file and does not require extraction) to the quote engine of the site.
@@ -19,5 +19,5 @@
 9. Finish the design submission and complete the ordering process.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjc3NjY3XX0=
+eyJoaXN0b3J5IjpbNDU3MjYyNzgxLC03MTI3NzY2N119
 -->
