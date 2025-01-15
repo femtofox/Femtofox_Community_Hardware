@@ -20,7 +20,7 @@
 ![Files uploaded](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/05%20files%20uploaded.webp)
 
 7. Check which parts you actually require, and those that are in stock. If an item is no longer available, it is worth reviewing the specs for the original part and finding an alternative. Pay special care that replacement connectors such as JST-PA (2.0mm) are used where they are called for.
-
+![enter image description here](https://github.com/Nestpebble/Femtofox_Community_Hardware/blob/main/Pictures/07%20deselect%20unneeded%20parts.webp)
 The following items require specific attention:
  - D1 and D1A are alternative parts. D1 is a 5V uni-directional TVS diode, and D1A is a 7V bidirectional TVS diode. D1 will provide some voltage limiting if the input exceeds 5V, but D1A was (at the time of release) a "basic" part, and therefore much cheaper whilst still providing ESD protection. If either of these is chosen, D2 and D3 are not required.
  - If neither D1 nor D1A is required, then D2 and D3 may be used to provide ESD and some over-voltage protection.
@@ -29,9 +29,13 @@ The following items require specific attention:
  - 2.54mm pin headers for UART2, UART4 and I2C are offered as an option, or 2.00mm pin headers are available in the same physical space. 2.54mm pins are designated with _HDR at the end. Choose one or the other.
  - Choose one of the 30db and 22db versions of the E22 module only.
 8. Once the correct parts are chosen, check the 2D and 3D renders of the board to check that all modules are in the correct locations.
-9. Finish the design submission and complete the ordering process.
+![enter image description here](https://github.com/Nestpebble/Femtofox_Community_Hardware/blob/main/Pictures/08%20confirm%20the%20placement.webp)
+9. Check the quantity, price and category are correct. Select DIY if you don't have a specific category in mind.
+![enter image description here](https://github.com/Nestpebble/Femtofox_Community_Hardware/blob/main/Pictures/09%20check%20qty%20price%20category.webp) 
+10. Adjust the quantity down to 2 boards only if you want to save some money and don't 
+11. Finish the design submission and complete the ordering process.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjEyNTA5NCw0NTcyNjI3ODEsLTcxMj
-c3NjY3XX0=
+eyJoaXN0b3J5IjpbLTE3NTQzNDI1NjUsNDU3MjYyNzgxLC03MT
+I3NzY2N119
 -->
