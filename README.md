@@ -1,5 +1,8 @@
 # Femtofox Hardware
-Hardware for the Luckfox Pico Mini with the Femtofox Linux Image
+Hardware for the Luckfox Pico Mini with Foxbuntu Linux to make it work with a LoRa radio.
+
+
+
 
 ## License
 Femtofox PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0 
@@ -91,5 +94,5 @@ The following items require specific attention:
  
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAwNDk1MF19
+eyJoaXN0b3J5IjpbNzA5MTIwNDM2LC0yMTAwMDQ5NTBdfQ==
 -->
