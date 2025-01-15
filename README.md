@@ -4,14 +4,14 @@ Hardware for the Luckfox Pico Mini with [Foxbuntu Linux](https://github.com/noon
 #### Femtofox Community Edition
 ![Femtofox CE front view](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20CE%203d.png)
 
-![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox_Front_2025-01-15.webp)
+![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox_Front_2025-01-15_rev1.1.webp)
 
 This board is sized to match a Raspberry Pi hat, and has holes to match that footprint. The board can be used without a Luckfox as a conventional Lora radio hat, and matches the Waveshare pinout. It works best with a Luckfox Pico Mini, of course.
 It features footprints for 3 types of radio: E22-30db, E22-22db, and the Seeed WIO SX1262, though only one at a time (for now!)
 
 #### Femtofox Smol Edition
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20SE-RA-WIO%203d.png)
-![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Smol_front_side_2025-01-15_rev1.1.webp)
+![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Smol_front_side_2025-01-15.webp)
 
 
 A smaller board that matches a Raspberry Pi Zero, with holes to match that footprint. This is a standalone unit.
