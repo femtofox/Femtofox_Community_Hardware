@@ -20,19 +20,23 @@
  - Removal of order number marks (there is no anchor information provided in the Gerber files to limit where it is placed)
 <details>
  <summary> &nbsp;Show me </summary>
+ 
 ![setting additional options](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/02%20PCB%20spec.webp)
-</details>
 
+</details>
 
 4. Select the PCB assembly option
 <details>
  <summary> &nbsp;Show me </summary>
+ 
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/03%20PCB%20assembly.webp)
+
 </details>
 
 5. Upload the BOM file and Pick & Place file to the relevant boxes on the next page.
 <details>
  <summary> &nbsp;Show me </summary>
+ 
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/04%20upload%20bom%20and%20pnp.webp)
 
 ![Files uploaded](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/05%20files%20uploaded.webp)
@@ -41,6 +45,7 @@
 7. Check which parts you actually require, and those that are in stock. If an item is no longer available, it is worth reviewing the specs for the original part and finding an alternative. Pay special care that replacement connectors such as JST-PA (2.0mm) are used where they are called for.
 <details>
  <summary> &nbsp;Show me </summary>
+ 
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/07%20deselect%20unneeded%20parts.webp)
 </details>
 
@@ -54,12 +59,14 @@ The following items require specific attention:
 8. Once the correct parts are chosen, check the 2D and 3D renders of the board to check that all modules are in the correct locations.
 <details>
  <summary> &nbsp;Show me </summary>
+ 
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/08%20confirm%20the%20placement.webp)
 </details>
 
 9. Check the quantity, price and category are correct. Select DIY if you don't have a specific category in mind.
 <details>
  <summary> &nbsp;Show me </summary> 
+ 
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/09%20check%20qty%20price%20category.webp)
  </details>
  
@@ -67,15 +74,16 @@ The following items require specific attention:
 
 <details>
  <summary> &nbsp;Show me </summary>
+ 
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/10%20adjust%20qty.webp)
 </details>
 
 11. Finish the design submission and complete the ordering process. Select the shipping option that suits you. It may be to your benefit to select an option that includes tax and customs fees, rather than paying the courier...
 <details>
  <summary> &nbsp;Show me </summary>
-![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/11%20select%20shipping.webp)
+ ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/11%20select%20shipping.webp)
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTkwMzA1NiwtMTc4MjQ0MDY3Myw0NT
-cyNjI3ODEsLTcxMjc3NjY3XX0=
+eyJoaXN0b3J5IjpbMTg0OTIyMTc2LC0xNzgyNDQwNjczLDQ1Nz
+I2Mjc4MSwtNzEyNzc2NjddfQ==
 -->
