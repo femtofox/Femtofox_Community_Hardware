@@ -14,7 +14,7 @@ Femtofox PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0
 
 ## Ordering the PCBs
 
- 1. Select the [release files](tbc) that suit your requirements.
+ 1. Select the [release files](https://github.com/Nestpebble/Femtofox_Community_Hardware/releases/) that suit your requirements.
  - Pin headers
  - Socket headers
  - Everything
@@ -99,6 +99,7 @@ The following items require specific attention:
  
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNTc5NzgzLDE2NDI5MTUxMjYsLTE1NT
-c2MzA0OTgsMzkyNzcxMzg2LC0yMTAwMDQ5NTBdfQ==
+eyJoaXN0b3J5IjpbLTIxMTM0MjU2MzQsMjQyNTc5NzgzLDE2ND
+I5MTUxMjYsLTE1NTc2MzA0OTgsMzkyNzcxMzg2LC0yMTAwMDQ5
+NTBdfQ==
 -->
