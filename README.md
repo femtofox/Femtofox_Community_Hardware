@@ -11,6 +11,8 @@ It features footprints for 3 types of radio: E22-30db, E22-22db, and the Seeed W
 
 #### Femtofox Smol Edition
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20SE-RA-WIO%203d.png)
+![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Smol_front_side_2025-01-15.webp)
+
 
 A smaller board that matches a Raspberry Pi Zero, with holes to match that footprint. This is a standalone unit.
 It features footprints for 3 types of radio: AI-Thinker RA-01SH, Heltec HT-RA62, and the Seeed WIO SX1262.
@@ -105,7 +107,7 @@ The following items require specific attention:
  
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE5OTc4MzUsMTM1MTY5ODk3NCwyND
-I1Nzk3ODMsMTY0MjkxNTEyNiwtMTU1NzYzMDQ5OCwzOTI3NzEz
-ODYsLTIxMDAwNDk1MF19
+eyJoaXN0b3J5IjpbMTE0NTMwNzMwLC0xMDAxOTk3ODM1LDEzNT
+E2OTg5NzQsMjQyNTc5NzgzLDE2NDI5MTUxMjYsLTE1NTc2MzA0
+OTgsMzkyNzcxMzg2LC0yMTAwMDQ5NTBdfQ==
 -->
