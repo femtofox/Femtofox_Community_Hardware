@@ -3,10 +3,12 @@ Hardware for the Luckfox Pico Mini with [Foxbuntu Linux](https://github.com/noon
 
 #### Femtofox Community Edition
 ![Femtofox CE front view](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20CE%203d.png)
+
 This board is sized to match a Raspberry Pi hat, and has holes to match that footprint. The board can be used without a Luckfox as a conventional Lora radio hat, and matches the Waveshare pinout.
 
 #### Femtofox Smol Edition
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20SE-RA-WIO%203d.png)
+
 A smaller board that matches a Raspberry Pi Zero, with holes to match that footprint. This is a standalone unit.
 
 ## License
@@ -99,7 +101,7 @@ The following items require specific attention:
  
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM0MjU2MzQsMjQyNTc5NzgzLDE2ND
-I5MTUxMjYsLTE1NTc2MzA0OTgsMzkyNzcxMzg2LC0yMTAwMDQ5
-NTBdfQ==
+eyJoaXN0b3J5IjpbMTM1MTY5ODk3NCwyNDI1Nzk3ODMsMTY0Mj
+kxNTEyNiwtMTU1NzYzMDQ5OCwzOTI3NzEzODYsLTIxMDAwNDk1
+MF19
 -->
