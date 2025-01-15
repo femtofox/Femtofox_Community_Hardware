@@ -21,11 +21,15 @@
 <details>
  <summary> &nbsp;Show me </summary>
 ![setting additional options](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/02%20PCB%20spec.webp)
+</details>
+
 
 4. Select the PCB assembly option
 <details>
  <summary> &nbsp;Show me </summary>
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/03%20PCB%20assembly.webp)
+</details>
+
 5. Upload the BOM file and Pick & Place file to the relevant boxes on the next page.
 <details>
  <summary> &nbsp;Show me </summary>
@@ -72,6 +76,6 @@ The following items require specific attention:
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/11%20select%20shipping.webp)
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc2MTEyMTAsLTE3ODI0NDA2NzMsND
-U3MjYyNzgxLC03MTI3NzY2N119
+eyJoaXN0b3J5IjpbMTE5MTkwMzA1NiwtMTc4MjQ0MDY3Myw0NT
+cyNjI3ODEsLTcxMjc3NjY3XX0=
 -->
