@@ -4,14 +4,16 @@ Hardware for the Luckfox Pico Mini with [Foxbuntu Linux](https://github.com/noon
 #### Femtofox Community Edition
 ![Femtofox CE front view](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20CE%203d.png)
 
-![enter image description here](https://github.com/Nestpebble/Femtofox_Community_Hardware/blob/main/Pictures/Femtofox_Front_2025-01-15.webp)
+![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox_Front_2025-01-15.webp)
 
-This board is sized to match a Raspberry Pi hat, and has holes to match that footprint. The board can be used without a Luckfox as a conventional Lora radio hat, and matches the Waveshare pinout.
+This board is sized to match a Raspberry Pi hat, and has holes to match that footprint. The board can be used without a Luckfox as a conventional Lora radio hat, and matches the Waveshare pinout. It works best with a Luckfox Pico Mini, of course.
+It features 3 types of radio: E22-30db, E22-22db, and the Seeed WIO SX1262, though only one at a time (for now!)
 
 #### Femtofox Smol Edition
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20SE-RA-WIO%203d.png)
 
 A smaller board that matches a Raspberry Pi Zero, with holes to match that footprint. This is a standalone unit.
+It features 2 types of radio: RA, and the Seeed WIO SX1262, though only one at a time (for now!)
 
 ## License
 Femtofox PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0 
@@ -103,7 +105,7 @@ The following items require specific attention:
  
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDA0MzIwNSwxMzUxNjk4OTc0LDI0Mj
+eyJoaXN0b3J5IjpbLTIyMzEzMTY0MywxMzUxNjk4OTc0LDI0Mj
 U3OTc4MywxNjQyOTE1MTI2LC0xNTU3NjMwNDk4LDM5Mjc3MTM4
 NiwtMjEwMDA0OTUwXX0=
 -->
