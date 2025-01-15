@@ -1,7 +1,11 @@
 # Ordering the PCBs
 
- 1. Select the [release files](tbc) that suit your requirements. 
+ 1. Select the [release files](tbc) that suit your requirements.
+ - Pin headers
+ - Socket headers
+ - Everything
  2. Upload the Gerber file (which is bundled as a .zip file and does not require extraction) to the quote engine of the site.
+
  3. Select additional options, such as surface finish, and removal of any order number information. The specific recommended options are as follows:
  - Lead-free HASL finish
  - 1.6mm thick PCB
@@ -19,5 +23,6 @@
 9. Finish the design submission and complete the ordering process.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MjYyNzgxLC03MTI3NzY2N119
+eyJoaXN0b3J5IjpbLTIwMTk4MDU1OTksNDU3MjYyNzgxLC03MT
+I3NzY2N119
 -->
