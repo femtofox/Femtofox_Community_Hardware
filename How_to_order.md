@@ -5,10 +5,12 @@
  - Socket headers
  - Everything
  2. Upload the Gerber file (which is bundled as a .zip file and does not require extraction) to the quote engine of the site.
+
 <detail>
 
 ![uploading the Gerber file](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/01%20upload.webp)
- </detail>
+
+</detail>
  
  3. Select additional options, such as surface finish, and removal of any order number information. The specific recommended options are as follows:
  - Lead-free HASL finish
@@ -42,6 +44,6 @@ The following items require specific attention:
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/11%20select%20shipping.webp)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTAyMjM4OCwtMTc4MjQ0MDY3Myw0NT
+eyJoaXN0b3J5IjpbMTc0MjAzMDQzMCwtMTc4MjQ0MDY3Myw0NT
 cyNjI3ODEsLTcxMjc3NjY3XX0=
 -->
