@@ -7,7 +7,7 @@ This board is sized to match a Raspberry Pi hat, and has holes to match that foo
 
 #### Femtofox Smol Edition
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20SE-RA-WIO%203d.png)
-A smaller board that matches a Raspberry Pi Zero
+A smaller board that matches a Raspberry Pi Zero, with holes to match that footprint. This is a standalone unit.
 
 ## License
 Femtofox PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0 
@@ -99,6 +99,6 @@ The following items require specific attention:
  
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDk3MTUxNywtMTU1NzYzMDQ5OCwzOT
+eyJoaXN0b3J5IjpbMTY0MjkxNTEyNiwtMTU1NzYzMDQ5OCwzOT
 I3NzEzODYsLTIxMDAwNDk1MF19
 -->
