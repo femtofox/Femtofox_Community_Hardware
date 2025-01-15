@@ -5,6 +5,7 @@
  - Socket headers
  - Everything
  2. Upload the Gerber file (which is bundled as a .zip file and does not require extraction) to the quote engine of the site.
+
 <summary> Show me </summary>
 
 <details>
@@ -45,6 +46,6 @@ The following items require specific attention:
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/11%20select%20shipping.webp)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTgxOTI1NCwtMTc4MjQ0MDY3Myw0NT
+eyJoaXN0b3J5IjpbLTg2NTczNjU0OCwtMTc4MjQ0MDY3Myw0NT
 cyNjI3ODEsLTcxMjc3NjY3XX0=
 -->
