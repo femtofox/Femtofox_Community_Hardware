@@ -46,7 +46,7 @@
 <details>
  <summary> &nbsp;Show me </summary>
  
-![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/07%20deselect%20unneeded%20parts.webp)
+![deselect parts you don't want](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/07%20deselect%20unneeded%20parts.webp)
 </details>
 
 The following items require specific attention:
@@ -60,14 +60,14 @@ The following items require specific attention:
 <details>
  <summary> &nbsp;Show me </summary>
  
-![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/08%20confirm%20the%20placement.webp)
+![check the part placer](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/08%20confirm%20the%20placement.webp)
 </details>
 
 9. Check the quantity, price and category are correct. Select DIY if you don't have a specific category in mind.
 <details>
  <summary> &nbsp;Show me </summary> 
  
-![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/09%20check%20qty%20price%20category.webp)
+![check the price and category](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/09%20check%20qty%20price%20category.webp)
  </details>
  
 10. Adjust the quantity down to 2 boards only if you want to save some money and don't need 5 boards (or consider buying just one from us!)
@@ -75,15 +75,16 @@ The following items require specific attention:
 <details>
  <summary> &nbsp;Show me </summary>
  
-![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/10%20adjust%20qty.webp)
+![change assembly option between 2 and 5](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/10%20adjust%20qty.webp)
 </details>
 
 11. Finish the design submission and complete the ordering process. Select the shipping option that suits you. It may be to your benefit to select an option that includes tax and customs fees, rather than paying the courier...
 <details>
  <summary> &nbsp;Show me </summary>
- ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/11%20select%20shipping.webp)
+ ![selecting a shipping option](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/11%20select%20shipping.webp)
+ 
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTIyMTc2LC0xNzgyNDQwNjczLDQ1Nz
-I2Mjc4MSwtNzEyNzc2NjddfQ==
+eyJoaXN0b3J5IjpbLTIzMzAwODI1MCwtMTc4MjQ0MDY3Myw0NT
+cyNjI3ODEsLTcxMjc3NjY3XX0=
 -->
