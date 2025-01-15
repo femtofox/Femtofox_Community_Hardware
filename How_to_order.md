@@ -29,15 +29,15 @@ The following items require specific attention:
  - 2.54mm pin headers for UART2, UART4 and I2C are offered as an option, or 2.00mm pin headers are available in the same physical space. 2.54mm pins are designated with _HDR at the end. Choose one or the other.
  - Choose one of the 30db and 22db versions of the E22 module only.
 8. Once the correct parts are chosen, check the 2D and 3D renders of the board to check that all modules are in the correct locations.
-![enter image description here](https://github.com/Nestpebble/Femtofox_Community_Hardware/blob/main/Pictures/08%20confirm%20the%20placement.webp)
+![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/08%20confirm%20the%20placement.webp)
 9. Check the quantity, price and category are correct. Select DIY if you don't have a specific category in mind.
-![enter image description here](https://github.com/Nestpebble/Femtofox_Community_Hardware/blob/main/Pictures/09%20check%20qty%20price%20category.webp) 
+![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/09%20check%20qty%20price%20category.webp) 
 10. Adjust the quantity down to 2 boards only if you want to save some money and don't need 5 boards (or consider buying just one from us!)
-![enter image description here](https://github.com/Nestpebble/Femtofox_Community_Hardware/blob/main/Pictures/10%20adjust%20qty.webp)
+![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/10%20adjust%20qty.webp)
 11. Finish the design submission and complete the ordering process. Select the shipping option that suits you. It may be to your benefit to select an option that includes tax and customs fees, rather than paying the courier...
-![enter image description here](https://github.com/Nestpebble/Femtofox_Community_Hardware/blob/main/Pictures/11%20select%20shipping.webp)
+![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/11%20select%20shipping.webp)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0Njk3Mzk4NSw0NTcyNjI3ODEsLTcxMj
-c3NjY3XX0=
+eyJoaXN0b3J5IjpbLTE3ODI0NDA2NzMsNDU3MjYyNzgxLC03MT
+I3NzY2N119
 -->
