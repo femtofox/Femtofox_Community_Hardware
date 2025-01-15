@@ -8,7 +8,7 @@
  2. Upload the Gerber file (which is bundled as a .zip file and does not require extraction) to the quote engine of the site.
 
 <details>
- <summary> Show me </summary>
+ <summary> &nbsp;&nbsp;Show me </summary>
 
 ![uploading the Gerber file](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/01%20upload.webp)
 
@@ -46,6 +46,6 @@ The following items require specific attention:
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/11%20select%20shipping.webp)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ2ODMwMjgsLTE3ODI0NDA2NzMsND
+eyJoaXN0b3J5IjpbLTEzMjA5Mzg1ODgsLTE3ODI0NDA2NzMsND
 U3MjYyNzgxLC03MTI3NzY2N119
 -->
