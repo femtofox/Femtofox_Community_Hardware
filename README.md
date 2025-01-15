@@ -8,7 +8,7 @@ Hardware for the Luckfox Pico Mini with [Foxbuntu Linux](https://github.com/noon
 
 This board is sized to match a Raspberry Pi hat, and has holes to match that footprint. The board can be used without a Luckfox as a conventional Lora radio hat, and matches the Waveshare pinout. It works best with a Luckfox Pico Mini, of course.
 It features footprints for 3 types of radio: E22-30db, E22-22db, and the Seeed WIO SX1262, though only one at a time (for now!)
-If you wish to power the 3.3V line from an LDO powered by the 5V line, simply sever the connection at J1, and insert a standard 5V/3.3V/Gnd LDO on the LDO header in the top right.
+If you wish to power the 3.3V line from an LDO powered by the 5V line, simply sever the connection at J1, and insert a standard 5V/3.3V/Gnd LDO on the LDO header in the top left.
 
 #### Femtofox Smol Edition
 ![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20SE-RA-WIO%203d.png)
@@ -108,7 +108,8 @@ The following items require specific attention:
  
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3MjI5NTM3LDExNDUzMDczMCwtMTAwMT
-k5NzgzNSwxMzUxNjk4OTc0LDI0MjU3OTc4MywxNjQyOTE1MTI2
-LC0xNTU3NjMwNDk4LDM5Mjc3MTM4NiwtMjEwMDA0OTUwXX0=
+eyJoaXN0b3J5IjpbLTE3OTkzOTE2MzAsMTE0NTMwNzMwLC0xMD
+AxOTk3ODM1LDEzNTE2OTg5NzQsMjQyNTc5NzgzLDE2NDI5MTUx
+MjYsLTE1NTc2MzA0OTgsMzkyNzcxMzg2LC0yMTAwMDQ5NTBdfQ
+==
 -->
