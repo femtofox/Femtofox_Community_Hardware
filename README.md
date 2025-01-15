@@ -1,5 +1,5 @@
 # Femtofox Hardware
-Hardware for the Luckfox Pico Mini with Foxbuntu Linux to make it work with a LoRa radio.
+Hardware for the Luckfox Pico Mini with [Foxbuntu Linux](https://github.com/noon92/femtofox) to make it work with a LoRa radio.
 
 #### Femtofox Community Edition
 ![Femtofox CE front view](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20CE%203d.png)
@@ -99,6 +99,6 @@ The following items require specific attention:
  
 </details>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjkxNTEyNiwtMTU1NzYzMDQ5OCwzOT
-I3NzEzODYsLTIxMDAwNDk1MF19
+eyJoaXN0b3J5IjpbMjQyNTc5NzgzLDE2NDI5MTUxMjYsLTE1NT
+c2MzA0OTgsMzkyNzcxMzg2LC0yMTAwMDQ5NTBdfQ==
 -->
