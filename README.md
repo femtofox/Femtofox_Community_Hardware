@@ -1,18 +1,18 @@
 # Femtofox Hardware
-Hardware for the Luckfox Pico Mini with [Foxbuntu Linux](https://github.com/noon92/femtofox) to make it work with a LoRa radio.
+Hardware for the Luckfox Pico Mini with [Foxbuntu Linux](https://github.com/femtofox/femtofox) to make it work with a LoRa radio.
 
 #### Femtofox Community Edition
-![Femtofox CE front view](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20CE%203d.png)
+![Femtofox CE front view](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20CE%203d.png)
 
-![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox_Front_2025-01-15_rev1.1.webp)
+![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox_Front_2025-01-15_rev1.1.webp)
 
 This board is sized to match a Raspberry Pi hat, and has holes to match that footprint. The board can be used without a Luckfox as a conventional Lora radio hat, and matches the Waveshare pinout. It works best with a Luckfox Pico Mini, of course.
 It features footprints for 3 types of radio: E22-30db, E22-22db, and the Seeed WIO SX1262, though only one at a time (for now!)
 If you wish to power the 3.3V line from an LDO powered by the 5V line, simply sever the connection at J1, and insert a standard 5V/3.3V/Gnd LDO on the LDO header in the top left.
 
 #### Femtofox Smol Edition
-![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20SE-RA-WIO%203d.png)
-![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/Smol_front_side_2025-01-15.webp)
+![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20SE-RA-WIO%203d.png)
+![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Smol_front_side_2025-01-15.webp)
 
 
 A smaller board that matches a Raspberry Pi Zero, with holes to match that footprint. This is a standalone unit.
@@ -23,7 +23,7 @@ Femtofox PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0
 
 ## Ordering the PCBs
 
- 1. Select the [release files](https://github.com/Nestpebble/Femtofox_Community_Hardware/releases/) that suit your requirements.
+ 1. Select the [release files](https://github.com/femtofox/Femtofox_Community_Hardware/releases/) that suit your requirements.
  - Pin headers
  - Socket headers
  - Everything
@@ -33,7 +33,7 @@ Femtofox PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0
 <details>
  <summary> &nbsp;Show me </summary>
 
-![uploading the Gerber file](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/01%20upload.webp)
+![uploading the Gerber file](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/01%20upload.webp)
 
 </details>
  
@@ -44,7 +44,7 @@ Femtofox PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0
 <details>
  <summary> &nbsp;Show me </summary>
  
-![setting additional options](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/02%20PCB%20spec.webp)
+![setting additional options](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/02%20PCB%20spec.webp)
 
 </details>
 
@@ -52,7 +52,7 @@ Femtofox PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0
 <details>
  <summary> &nbsp;Show me </summary>
  
-![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/03%20PCB%20assembly.webp)
+![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/03%20PCB%20assembly.webp)
 
 </details>
 
@@ -60,9 +60,9 @@ Femtofox PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0
 <details>
  <summary> &nbsp;Show me </summary>
  
-![enter image description here](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/04%20upload%20bom%20and%20pnp.webp)
+![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/04%20upload%20bom%20and%20pnp.webp)
 
-![Files uploaded](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/05%20files%20uploaded.webp)
+![Files uploaded](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/05%20files%20uploaded.webp)
 </details>
 
 7. Check which parts you actually require, and those that are in stock. If an item is no longer available, it is worth reviewing the specs for the original part and finding an alternative. Pay special care that replacement connectors such as JST-PA (2.0mm) are used where they are called for.
@@ -83,14 +83,14 @@ The following items require specific attention:
 <details>
  <summary> &nbsp;Show me </summary>
  
-![check the part placer](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/08%20confirm%20the%20placement.webp)
+![check the part placer](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/08%20confirm%20the%20placement.webp)
 </details>
 
 9. Check the quantity, price and category are correct. Select DIY if you don't have a specific category in mind.
 <details>
  <summary> &nbsp;Show me </summary> 
  
-![check the price and category](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/09%20check%20qty%20price%20category.webp)
+![check the price and category](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/09%20check%20qty%20price%20category.webp)
  </details>
  
 10. Adjust the quantity down to 2 boards only if you want to save some money and don't need 5 boards (or consider buying just one from us!)
@@ -98,14 +98,14 @@ The following items require specific attention:
 <details>
  <summary> &nbsp;Show me </summary>
  
-![change assembly option between 2 and 5](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/10%20adjust%20qty.webp)
+![change assembly option between 2 and 5](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/10%20adjust%20qty.webp)
 </details>
 
 11. Finish the design submission and complete the ordering process. Select the shipping option that suits you. It may be to your benefit to select an option that includes tax and customs fees, rather than paying the courier...
 <details>
  <summary> &nbsp;Show me </summary>
- ![selecting a shipping option](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/11%20select%20shipping.webp)
- 
+
+![selecting a shipping option](https://raw.githubusercontent.com/Nestpebble/Femtofox_Community_Hardware/refs/heads/main/Pictures/11%20select%20shipping.webp)
 </details>
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE3OTkzOTE2MzAsMTE0NTMwNzMwLC0xMD
