@@ -114,7 +114,7 @@ The following items require specific attention:
 
 | Part number/value | Part description | Designation (PCB, Schematic) | Packaging |
 |----------------------|------------------------|------------------------------|---------------------------------|
-| AO3400A | N-Mosfet | AO0 | SOT-23 |
+| AO3400A | N-Mosfet | AO0/AO2 | SOT-23 |
 | AO3401A | P-Mosfet | AO1 | SOT-23 |
 | 100uF | Capacitor | C1 | C1206 |
 | 100nF | Capacitor | C2 | C0603 |
@@ -127,8 +127,8 @@ The following items require specific attention:
 | PSM712-LF-T7 | TVS diode | D1A | SOT-23 |
 | GBLC03CI_C5173269 | TVS diode | D2 | SOD-323 |
 | GBLC05CI-LF-T7 | TVS diode | D3 | SOD-323 |
-| E22-900M22S | LoRa Radio Module | E22-900M22S | SMD module |
-| E22-900M30S | LoRa Radio Module | E22-900M30S | SMD module |
+| E22-900M22S | LoRa Radio Module - **22dB** | E22-900M22S | SMD module |
+| E22-900M30S | LoRa Radio Module - **30dB** | E22-900M30S | SMD module |
 | HDR-M-2.54_1x5 | 5-pin header | ETH | HDR-M-2.54_1X5 |
 | ZX-PM2.54-1-5PY | 5-socket header | ETHS | HDR-TH_5P-P2.54-V-F-B |
 | 0603L100/12AR | polyfuse | F1 | F0603 |
@@ -151,9 +151,9 @@ The following items require specific attention:
 | HDR2.54-LI-2X4P | 4-pin header | UART2_HDR | HDR-TH_4P-P2.54-V-M |
 | B4B-PH-K-R(LF)(SN) | 4-pin JST PH connector | UART4 | CONN-TH_B4B-PH-K-S-LF-SN |
 | HDR2.54-LI-2X4P | 4-pin header | UART4_HDR | HDR-TH_4P-P2.54-V-M |
-| Seeed-wio-SX1262 | LoRa Radio Module | WIO-SX1262 | SEEED_WIO_SX1262_NOSILK |
+| Seeed-wio-SX1262 | LoRa Radio Module | WIO-SX1262 | SMD module |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjA1ODAzOCwtMTc5OTM5MTYzMCwxMT
+eyJoaXN0b3J5IjpbLTg0NDg3Njc0NCwtMTc5OTM5MTYzMCwxMT
 Q1MzA3MzAsLTEwMDE5OTc4MzUsMTM1MTY5ODk3NCwyNDI1Nzk3
 ODMsMTY0MjkxNTEyNiwtMTU1NzYzMDQ5OCwzOTI3NzEzODYsLT
 IxMDAwNDk1MF19
