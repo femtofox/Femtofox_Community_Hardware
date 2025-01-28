@@ -155,11 +155,11 @@ The following items require specific attention:
 
 Note: 
 [^1]:The choice of capacitors (* or \**) depends on the choice of radio module
-[^2]:These are options for the TVS diode
-[^3]:The choice of radio module (* or \**) affects the choice of capacitor
+[^2]:These are options for the TVS diode, either † or ‡
+[^3]:The choice of radio module (* or \**) affects the choice of capacitors
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDgxOTM5NCwtMTQ1NDk0Mzk3NCwtOD
-Q0ODc2NzQ0LC0xNzk5MzkxNjMwLDExNDUzMDczMCwtMTAwMTk5
-NzgzNSwxMzUxNjk4OTc0LDI0MjU3OTc4MywxNjQyOTE1MTI2LC
-0xNTU3NjMwNDk4LDM5Mjc3MTM4NiwtMjEwMDA0OTUwXX0=
+eyJoaXN0b3J5IjpbMTc0MjY5NzA4LC0xNDU0OTQzOTc0LC04ND
+Q4NzY3NDQsLTE3OTkzOTE2MzAsMTE0NTMwNzMwLC0xMDAxOTk3
+ODM1LDEzNTE2OTg5NzQsMjQyNTc5NzgzLDE2NDI5MTUxMjYsLT
+E1NTc2MzA0OTgsMzkyNzcxMzg2LC0yMTAwMDQ5NTBdfQ==
 -->
