@@ -135,23 +135,14 @@ The following items require specific attention:
 | B4B-PH-K-R(LF)(SN) | 4-pin JST PH connector | I2C_1 | CONN-TH_B4B-PH-K-S-LF-SN |
 | B4B-PH-K-R(LF)(SN) | 4-pin JST PH connector | I2C_2 | CONN-TH_B4B-PH-K-S-LF-SN |
 | HDR2.54-LI-2X4P | 4-pin header | I2C_HDR | HDR-TH_4P-P2.54-V-M |
-
 | HDR2.54-LI-2X4P | 4-pin header | I2C_HDR2 | HDR-TH_4P-P2.54-V-M |
-
 | HDR2.54-LI-2X4P | 4-pin header | I2C_HDR3 | HDR-TH_4P-P2.54-V-M |
-
 | HR911105A_C12074 | RJ45 socket | J4 | RJ45-TH_HR911105A |
-
 | DS1021-1X11SF11-B | 11-pin header | PHL1 | HDR-TH_11P-P2.54-V-M |
-
 | DS1021-1X11SF11-B | 11-pin header | PHL2 | HDR-TH_11P-P2.54-V-M |
-
 | DS1021-1X11SF11-B | 11-pin header | PHR1 | HDR-TH_11P-P2.54-V-M |
-
 | DS1021-1X11SF11-B | 11-pin header | PHR2 | HDR-TH_11P-P2.54-V-M |
-
 | AO3401A | P-Mosfet | Q1 | SOT-23_L2.9-W1.3-P1.90-LS2.4-BR |
-
 | 100kΩ | Resistor | R1 | R0603 |
 | 100kΩ | Resistor | R2 | R0603 |
 | KH-2.54FH-1X11P-H8.5 | 11-socket header | SHL1 | HDR-TH_11P-P2.54-V-F-2 |
@@ -162,8 +153,8 @@ The following items require specific attention:
 | HDR2.54-LI-2X4P | 4-pin header | UART4_HDR | HDR-TH_4P-P2.54-V-M |
 | Seeed-wio-SX1262 | LoRa Radio Module | WIO-SX1262 | SEEED_WIO_SX1262_NOSILK |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4MTA4NTUyLC0xNzk5MzkxNjMwLDExND
-UzMDczMCwtMTAwMTk5NzgzNSwxMzUxNjk4OTc0LDI0MjU3OTc4
-MywxNjQyOTE1MTI2LC0xNTU3NjMwNDk4LDM5Mjc3MTM4NiwtMj
-EwMDA0OTUwXX0=
+eyJoaXN0b3J5IjpbMTEwMjA1ODAzOCwtMTc5OTM5MTYzMCwxMT
+Q1MzA3MzAsLTEwMDE5OTc4MzUsMTM1MTY5ODk3NCwyNDI1Nzk3
+ODMsMTY0MjkxNTEyNiwtMTU1NzYzMDQ5OCwzOTI3NzEzODYsLT
+IxMDAwNDk1MF19
 -->
