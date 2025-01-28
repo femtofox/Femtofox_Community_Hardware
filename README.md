@@ -127,8 +127,8 @@ The following items require specific attention:
 | PSM712-LF-T7 | TVS diode  | D1A †[^2] | SOT-23 |
 | GBLC03CI_C5173269 | TVS diode | D2 ‡[^2] | SOD-323 |
 | GBLC05CI-LF-T7 | TVS diode | D3 ‡[^2] | SOD-323 |
-| E22-900M30S | LoRa Radio Module - **30dB**  | E22-900M30S **[^2] | SMD module |
-| E22-900M22S | LoRa Radio Module - **22dB** | E22-900M22S *[^2] | SMD module |
+| E22-900M30S | LoRa Radio Module - **30dB**  | E22-900M30S **[^3] | SMD module |
+| E22-900M22S | LoRa Radio Module - **22dB** | E22-900M22S *[^3] | SMD module |
 | HDR-M-2.54_1x5 | 5-pin header | ETH | 2.54mm pitch thru-hole pins |
 | ZX-PM2.54-1-5PY | 5-socket header | ETHS | 2.54mm pitch thru-hole sockets |
 | 0603L100/12AR | polyfuse | F1 | F0603 |
@@ -151,13 +151,15 @@ The following items require specific attention:
 | HDR2.54-LI-2X4P | 4-pin header | UART2_HDR | 2.54mm pitch thru-hole pins |
 | B4B-PH-K-R(LF)(SN) | 4-pin JST PH connector | UART4 | 2mm pitch thru-hole connector |
 | HDR2.54-LI-2X4P | 4-pin header | UART4_HDR | 2.54mm pitch thru-hole pins |
-| Seeed-wio-SX1262 | LoRa Radio Module * | WIO-SX1262 | SMD module |
+| Seeed-wio-SX1262 | LoRa Radio Module | WIO-SX1262 *[^3] | SMD module |
 
 Note: 
-[^1]:These are options for the TVS diode
+[^1]:The choice of capacitors (* or \**) depends on the choice of radio module
+[^2]:These are options for the TVS diode
+[^3]:The choice of radio module (* or \**) affects the choice of capacitor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NzIwNDk3LC0xNDU0OTQzOTc0LC04ND
-Q4NzY3NDQsLTE3OTkzOTE2MzAsMTE0NTMwNzMwLC0xMDAxOTk3
-ODM1LDEzNTE2OTg5NzQsMjQyNTc5NzgzLDE2NDI5MTUxMjYsLT
-E1NTc2MzA0OTgsMzkyNzcxMzg2LC0yMTAwMDQ5NTBdfQ==
+eyJoaXN0b3J5IjpbLTI0NDgxOTM5NCwtMTQ1NDk0Mzk3NCwtOD
+Q0ODc2NzQ0LC0xNzk5MzkxNjMwLDExNDUzMDczMCwtMTAwMTk5
+NzgzNSwxMzUxNjk4OTc0LDI0MjU3OTc4MywxNjQyOTE1MTI2LC
+0xNTU3NjMwNDk4LDM5Mjc3MTM4NiwtMjEwMDA0OTUwXX0=
 -->
