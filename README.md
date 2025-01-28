@@ -129,8 +129,8 @@ The following items require specific attention:
 | GBLC05CI-LF-T7 | TVS diode | D3 | SOD-323 |
 | E22-900M22S | LoRa Radio Module - **22dB** | E22-900M22S | SMD module |
 | E22-900M30S | LoRa Radio Module - **30dB** | E22-900M30S | SMD module |
-| HDR-M-2.54_1x5 | 5-pin header | ETH | HDR-M-2.54_1X5 |
-| ZX-PM2.54-1-5PY | 5-socket header | ETHS | HDR-TH_5P-P2.54-V-F-B |
+| HDR-M-2.54_1x5 | 5-pin header | ETH | 2.54mm pitch thru-hole pins |
+| ZX-PM2.54-1-5PY | 5-socket header | ETHS | 2.54mm pitch thru-hole sockets |
 | 0603L100/12AR | polyfuse | F1 | F0603 |
 | B4B-PH-K-R(LF)(SN) | 4-pin JST PH connector | I2C_1 | 2mm pitch thru-hole connector |
 | B4B-PH-K-R(LF)(SN) | 4-pin JST PH connector | I2C_2 | 2mm pitch thru-hole connector |
@@ -140,21 +140,21 @@ The following items require specific attention:
 | HR911105A_C12074 | RJ45 socket | J4 | Thru-hole socket |
 | DS1021-1X11SF11-B | 11-pin header | PHL1 | 2.54mm pitch thru-hole pins |
 | DS1021-1X11SF11-B | 11-pin header | PHL2 | 2.54mm pitch thru-hole pins |
-| DS1021-1X11SF11-B | 11-pin header | PHR1 | HDR-TH_11P-P2.54-V-M |
-| DS1021-1X11SF11-B | 11-pin header | PHR2 | HDR-TH_11P-P2.54-V-M |
-| AO3401A | P-Mosfet | Q1 | SOT-23_L2.9-W1.3-P1.90-LS2.4-BR |
+| DS1021-1X11SF11-B | 11-pin header | PHR1 | 2.54mm pitch thru-hole pins |
+| DS1021-1X11SF11-B | 11-pin header | PHR2 | 2.54mm pitch thru-hole pins |
+| AO3401A | P-Mosfet | Q1 | SOT-23 |
 | 100kΩ | Resistor | R1 | R0603 |
 | 100kΩ | Resistor | R2 | R0603 |
-| KH-2.54FH-1X11P-H8.5 | 11-socket header | SHL1 | HDR-TH_11P-P2.54-V-F-2 |
-| KH-2.54FH-1X11P-H8.5 | 11-socket header | SHR1 | HDR-TH_11P-P2.54-V-F-2 |
+| KH-2.54FH-1X11P-H8.5 | 11-socket header | SHL1 | 2.54mm pitch thru-hole sockets |
+| KH-2.54FH-1X11P-H8.5 | 11-socket header | SHR1 | 2.54mm pitch thru-hole sockets |
 | B4B-PH-K-R(LF)(SN) | 4-pin JST PH connector | UART2 | 2mm pitch thru-hole connector |
-| HDR2.54-LI-2X4P | 4-pin header | UART2_HDR | HDR-TH_4P-P2.54-V-M |
-| B4B-PH-K-R(LF)(SN) | 4-pin JST PH connector | UART4 | Thru-hole connector |
-| HDR2.54-LI-2X4P | 4-pin header | UART4_HDR | HDR-TH_4P-P2.54-V-M |
+| HDR2.54-LI-2X4P | 4-pin header | UART2_HDR | 2.54mm pitch thru-hole pins |
+| B4B-PH-K-R(LF)(SN) | 4-pin JST PH connector | UART4 | 2mm pitch thru-hole connector |
+| HDR2.54-LI-2X4P | 4-pin header | UART4_HDR | 2.54mm pitch thru-hole pins |
 | Seeed-wio-SX1262 | LoRa Radio Module | WIO-SX1262 | SMD module |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDkxNDc5NCwtODQ0ODc2NzQ0LC0xNz
-k5MzkxNjMwLDExNDUzMDczMCwtMTAwMTk5NzgzNSwxMzUxNjk4
-OTc0LDI0MjU3OTc4MywxNjQyOTE1MTI2LC0xNTU3NjMwNDk4LD
-M5Mjc3MTM4NiwtMjEwMDA0OTUwXX0=
+eyJoaXN0b3J5IjpbLTE2NDEzNzMyMjcsLTg0NDg3Njc0NCwtMT
+c5OTM5MTYzMCwxMTQ1MzA3MzAsLTEwMDE5OTc4MzUsMTM1MTY5
+ODk3NCwyNDI1Nzk3ODMsMTY0MjkxNTEyNiwtMTU1NzYzMDQ5OC
+wzOTI3NzEzODYsLTIxMDAwNDk1MF19
 -->
