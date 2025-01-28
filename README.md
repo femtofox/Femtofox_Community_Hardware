@@ -123,12 +123,12 @@ The following items require specific attention:
 | 10nF | Capacitor | C7 | C0603 |
 | 10nF | Capacitor | C8 | C0603 |
 | B2B-PH-K-S(LF)(SN) | 2-pin JST PH connector | CN5V | 2mm pitch thru-hole connector |
-| PESD5V0S2BT | TVS diode | D1 | SOT-23 |
-| PSM712-LF-T7 | TVS diode | D1A | SOT-23 |
-| GBLC03CI_C5173269 | TVS diode | D2 | SOD-323 |
-| GBLC05CI-LF-T7 | TVS diode | D3 | SOD-323 |
-| E22-900M30S | LoRa Radio Module - **30dB** ** | E22-900M30S | SMD module |
-| E22-900M22S | LoRa Radio Module - **22dB** * | E22-900M22S | SMD module |
+| PESD5V0S2BT | TVS diode † | D1 † | SOT-23 |
+| PSM712-LF-T7 | TVS diode  | D1A † | SOT-23 |
+| GBLC03CI_C5173269 | TVS diode ‡ | D2 | SOD-323 |
+| GBLC05CI-LF-T7 | TVS diode ‡ | D3 | SOD-323 |
+| E22-900M30S | LoRa Radio Module - **30dB**  | E22-900M30S ** | SMD module |
+| E22-900M22S | LoRa Radio Module - **22dB** | E22-900M22S * | SMD module |
 | HDR-M-2.54_1x5 | 5-pin header | ETH | 2.54mm pitch thru-hole pins |
 | ZX-PM2.54-1-5PY | 5-socket header | ETHS | 2.54mm pitch thru-hole sockets |
 | 0603L100/12AR | polyfuse | F1 | F0603 |
@@ -153,7 +153,7 @@ The following items require specific attention:
 | HDR2.54-LI-2X4P | 4-pin header | UART4_HDR | 2.54mm pitch thru-hole pins |
 | Seeed-wio-SX1262 | LoRa Radio Module * | WIO-SX1262 | SMD module |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjk4NDE1LC04NDQ4NzY3NDQsLTE3OT
+eyJoaXN0b3J5IjpbNTY2Mzg3ODU1LC04NDQ4NzY3NDQsLTE3OT
 kzOTE2MzAsMTE0NTMwNzMwLC0xMDAxOTk3ODM1LDEzNTE2OTg5
 NzQsMjQyNTc5NzgzLDE2NDI5MTUxMjYsLTE1NTc2MzA0OTgsMz
 kyNzcxMzg2LC0yMTAwMDQ5NTBdfQ==
