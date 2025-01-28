@@ -116,19 +116,19 @@ The following items require specific attention:
 |----------------------|------------------------|------------------------------|---------------------------------|
 | AO3400A | N-Mosfet | AO0/AO2 | SOT-23 |
 | AO3401A | P-Mosfet | AO1 | SOT-23 |
-| 100uF | Capacitor | C1* | C1206 |
-| 100nF | Capacitor | C2* | C0603 |
+| 100uF | Capacitor | C1*[^1] | C1206 |
+| 100nF | Capacitor | C2*[^1] | C0603 |
 | 100uF | Capacitor | C3** | C1206 |
 | 100nF | Capacitor | C4** | C0603 |
 | 10nF | Capacitor | C7 | C0603 |
 | 10nF | Capacitor | C8 | C0603 |
 | B2B-PH-K-S(LF)(SN) | 2-pin JST PH connector | CN5V | 2mm pitch thru-hole connector |
-| PESD5V0S2BT | TVS diode  | D1 [^†] | SOT-23 |
-| PSM712-LF-T7 | TVS diode  | D1A [^†] | SOT-23 |
-| GBLC03CI_C5173269 | TVS diode | D2 ‡ | SOD-323 |
-| GBLC05CI-LF-T7 | TVS diode | D3 ‡ | SOD-323 |
-| E22-900M30S | LoRa Radio Module - **30dB**  | E22-900M30S ** | SMD module |
-| E22-900M22S | LoRa Radio Module - **22dB** | E22-900M22S * | SMD module |
+| PESD5V0S2BT | TVS diode  | D1 †[^2] | SOT-23 |
+| PSM712-LF-T7 | TVS diode  | D1A †[^2] | SOT-23 |
+| GBLC03CI_C5173269 | TVS diode | D2 ‡[^2] | SOD-323 |
+| GBLC05CI-LF-T7 | TVS diode | D3 ‡[^2] | SOD-323 |
+| E22-900M30S | LoRa Radio Module - **30dB**  | E22-900M30S **[^2] | SMD module |
+| E22-900M22S | LoRa Radio Module - **22dB** | E22-900M22S *[^2] | SMD module |
 | HDR-M-2.54_1x5 | 5-pin header | ETH | 2.54mm pitch thru-hole pins |
 | ZX-PM2.54-1-5PY | 5-socket header | ETHS | 2.54mm pitch thru-hole sockets |
 | 0603L100/12AR | polyfuse | F1 | F0603 |
@@ -154,10 +154,10 @@ The following items require specific attention:
 | Seeed-wio-SX1262 | LoRa Radio Module * | WIO-SX1262 | SMD module |
 
 Note: 
-[^†]:These are options for the TVS diode
+[^1]:These are options for the TVS diode
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ5NDM5NzQsLTg0NDg3Njc0NCwtMT
-c5OTM5MTYzMCwxMTQ1MzA3MzAsLTEwMDE5OTc4MzUsMTM1MTY5
-ODk3NCwyNDI1Nzk3ODMsMTY0MjkxNTEyNiwtMTU1NzYzMDQ5OC
-wzOTI3NzEzODYsLTIxMDAwNDk1MF19
+eyJoaXN0b3J5IjpbNDQ4NzIwNDk3LC0xNDU0OTQzOTc0LC04ND
+Q4NzY3NDQsLTE3OTkzOTE2MzAsMTE0NTMwNzMwLC0xMDAxOTk3
+ODM1LDEzNTE2OTg5NzQsMjQyNTc5NzgzLDE2NDI5MTUxMjYsLT
+E1NTc2MzA0OTgsMzkyNzcxMzg2LC0yMTAwMDQ5NTBdfQ==
 -->
