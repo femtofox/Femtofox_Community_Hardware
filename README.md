@@ -124,7 +124,7 @@ The following items require specific attention:
 | 10nF | Capacitor | C8 | C0603 |
 | B2B-PH-K-S(LF)(SN) | 2-pin JST PH connector | CN5V | 2mm pitch thru-hole connector |
 | PESD5V0S2BT | TVS diode  | D1 † | SOT-23 |
-| PSM712-LF-T7 | TVS diode  | D1A † | SOT-23 |
+| PSM712-LF-T7 | TVS diode  | D1A [^†] | SOT-23 |
 | GBLC03CI_C5173269 | TVS diode | D2 ‡ | SOD-323 |
 | GBLC05CI-LF-T7 | TVS diode | D3 ‡ | SOD-323 |
 | E22-900M30S | LoRa Radio Module - **30dB**  | E22-900M30S ** | SMD module |
@@ -154,9 +154,10 @@ The following items require specific attention:
 | Seeed-wio-SX1262 | LoRa Radio Module * | WIO-SX1262 | SMD module |
 
 Note: 
+[^†]:These are options for the TVS diode
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkyNTUzODUsLTg0NDg3Njc0NCwtMT
-c5OTM5MTYzMCwxMTQ1MzA3MzAsLTEwMDE5OTc4MzUsMTM1MTY5
-ODk3NCwyNDI1Nzk3ODMsMTY0MjkxNTEyNiwtMTU1NzYzMDQ5OC
-wzOTI3NzEzODYsLTIxMDAwNDk1MF19
+eyJoaXN0b3J5IjpbODYyNzQwNTQ4LC04NDQ4NzY3NDQsLTE3OT
+kzOTE2MzAsMTE0NTMwNzMwLC0xMDAxOTk3ODM1LDEzNTE2OTg5
+NzQsMjQyNTc5NzgzLDE2NDI5MTUxMjYsLTE1NTc2MzA0OTgsMz
+kyNzcxMzg2LC0yMTAwMDQ5NTBdfQ==
 -->
