@@ -1,6 +1,9 @@
 # Femtofox Hardware
 Hardware for the Luckfox Pico Mini with [Foxbuntu Linux](https://github.com/femtofox/femtofox) to make it work with a LoRa radio.
 
+Quick links:
+[Femtofox Linux ](https://github.com/femtofox/femtofox)
+
 #### Femtofox Community Edition
 ![Femtofox CE front view](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20CE%203d.png)
 
@@ -158,8 +161,9 @@ Note:
 [^2]:These are options for the TVS diode, either † or ‡
 [^3]:The choice of radio module (* or \**) affects the choice of capacitors
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjY5NzA4LC0xNDU0OTQzOTc0LC04ND
-Q4NzY3NDQsLTE3OTkzOTE2MzAsMTE0NTMwNzMwLC0xMDAxOTk3
-ODM1LDEzNTE2OTg5NzQsMjQyNTc5NzgzLDE2NDI5MTUxMjYsLT
-E1NTc2MzA0OTgsMzkyNzcxMzg2LC0yMTAwMDQ5NTBdfQ==
+eyJoaXN0b3J5IjpbLTExMDczMDQ1NzQsMTc0MjY5NzA4LC0xND
+U0OTQzOTc0LC04NDQ4NzY3NDQsLTE3OTkzOTE2MzAsMTE0NTMw
+NzMwLC0xMDAxOTk3ODM1LDEzNTE2OTg5NzQsMjQyNTc5NzgzLD
+E2NDI5MTUxMjYsLTE1NTc2MzA0OTgsMzkyNzcxMzg2LC0yMTAw
+MDQ5NTBdfQ==
 -->
