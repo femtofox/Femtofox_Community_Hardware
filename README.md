@@ -7,7 +7,7 @@ Quick links:
 * [3d printable brackets etc.](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/3d_prints)
 * [Instructions on how to order](https://github.com/femtofox/Femtofox_Community_Hardware?tab=readme-ov-file#ordering-the-pcbs)
 
-#### Femtofox Community Edition
+## Femtofox Community Edition
 ![Femtofox CE front view](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20CE%203d.png)
 
 ![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox_Front_2025-01-15_rev1.1.webp)
@@ -16,7 +16,7 @@ This board is sized to match a Raspberry Pi hat, and has holes to match that foo
 It features footprints for 3 types of radio: E22-30db, E22-22db, and the Seeed WIO SX1262, though only one at a time (for now!)
 If you wish to power the 3.3V line from an LDO powered by the 5V line, simply sever the connection at J1, and insert a standard 5V/3.3V/Gnd LDO on the LDO header in the top left.
 
-#### Femtofox Smol Edition
+### Femtofox Smol Edition
 ![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20SE-RA-WIO%203d.png)
 ![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Smol_front_side_2025-01-15.webp)
 
@@ -164,9 +164,9 @@ Note:
 [^2]:These are options for the TVS diode, either † or ‡
 [^3]:The choice of radio module (* or \**) affects the choice of capacitors
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDI1NjI5NywxNzQyNjk3MDgsLTE0NT
-Q5NDM5NzQsLTg0NDg3Njc0NCwtMTc5OTM5MTYzMCwxMTQ1MzA3
-MzAsLTEwMDE5OTc4MzUsMTM1MTY5ODk3NCwyNDI1Nzk3ODMsMT
-Y0MjkxNTEyNiwtMTU1NzYzMDQ5OCwzOTI3NzEzODYsLTIxMDAw
-NDk1MF19
+eyJoaXN0b3J5IjpbLTEyOTAzNTgwNDAsMTc0MjY5NzA4LC0xND
+U0OTQzOTc0LC04NDQ4NzY3NDQsLTE3OTkzOTE2MzAsMTE0NTMw
+NzMwLC0xMDAxOTk3ODM1LDEzNTE2OTg5NzQsMjQyNTc5NzgzLD
+E2NDI5MTUxMjYsLTE1NTc2MzA0OTgsMzkyNzcxMzg2LC0yMTAw
+MDQ5NTBdfQ==
 -->
