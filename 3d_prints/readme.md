@@ -10,9 +10,12 @@ These are some designs for a bracket to hold the IPEX/u.fl connector in place. T
 
 There are files for two variants of an SMA wrench, too.
 
+Antenna mounts
+![antenna mounts](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/3d-prints/antenna%20mount.webp)
 
-
+Ipex retainer and plain spacer
+![ipex retainer and spacer](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/3d-prints/ipex%20retainer%20and%20spacer.webp)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDc1MTk3M119
+eyJoaXN0b3J5IjpbLTExMDM0Mzk4NzZdfQ==
 -->
