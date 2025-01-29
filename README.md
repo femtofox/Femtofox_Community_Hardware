@@ -4,7 +4,8 @@ Hardware for the Luckfox Pico Mini with [Foxbuntu Linux](https://github.com/femt
 Quick links:
 * [Femtofox Software & OS](https://github.com/femtofox/femtofox)
 * [PCB Gerber, BOM, Pick&Place](https://github.com/femtofox/Femtofox_Community_Hardware/releases)
-* 3d printable brackets etc.
+* [3d printable brackets etc.](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/3d_prints)
+* [Instructions on how to order](https://github.com/femtofox/Femtofox_Community_Hardware?tab=readme-ov-file#ordering-the-pcbs)
 
 #### Femtofox Community Edition
 ![Femtofox CE front view](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20CE%203d.png)
@@ -163,9 +164,9 @@ Note:
 [^2]:These are options for the TVS diode, either † or ‡
 [^3]:The choice of radio module (* or \**) affects the choice of capacitors
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2MTkyNTQ0LDE3NDI2OTcwOCwtMTQ1ND
-k0Mzk3NCwtODQ0ODc2NzQ0LC0xNzk5MzkxNjMwLDExNDUzMDcz
-MCwtMTAwMTk5NzgzNSwxMzUxNjk4OTc0LDI0MjU3OTc4MywxNj
-QyOTE1MTI2LC0xNTU3NjMwNDk4LDM5Mjc3MTM4NiwtMjEwMDA0
-OTUwXX0=
+eyJoaXN0b3J5IjpbMTQ0MDI1NjI5NywxNzQyNjk3MDgsLTE0NT
+Q5NDM5NzQsLTg0NDg3Njc0NCwtMTc5OTM5MTYzMCwxMTQ1MzA3
+MzAsLTEwMDE5OTc4MzUsMTM1MTY5ODk3NCwyNDI1Nzk3ODMsMT
+Y0MjkxNTEyNiwtMTU1NzYzMDQ5OCwzOTI3NzEzODYsLTIxMDAw
+NDk1MF19
 -->
