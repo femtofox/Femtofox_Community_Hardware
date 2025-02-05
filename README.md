@@ -135,8 +135,8 @@ The following items require specific attention:
 | PSM712-LF-T7 | TVS diode  | D1A †[^2] | SOT-23 |
 | GBLC03CI_C5173269 | TVS diode | D2 ‡[^2] | SOD-323 |
 | GBLC05CI-LF-T7 | TVS diode | D3 ‡[^2] | SOD-323 |
-| E22-900M30S | LoRa Radio Module - **30dB**  | E22-900M30S **[^3] | SMD module |
-| E22-900M22S | LoRa Radio Module - **22dB** | E22-900M22S *[^3] | SMD module |
+| E22-900M30S | LoRa Radio Module - **30dB**  | E22-900M30S *[^3] | SMD module |
+| E22-900M22S | LoRa Radio Module - **22dB** | E22-900M22S **[^3] | SMD module |
 | HDR-M-2.54_1x5 | 5-pin header | ETH | 2.54mm pitch thru-hole pins |
 | ZX-PM2.54-1-5PY | 5-socket header | ETHS | 2.54mm pitch thru-hole sockets |
 | 0603L100/12AR | polyfuse | F1 | F0603 |
