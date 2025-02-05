@@ -71,7 +71,7 @@ Femtofox PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0
 ![Files uploaded](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/05%20files%20uploaded.webp)
 </details>
 
-7. Check which parts you actually require, and those that are in stock. If an item is no longer available, it is worth reviewing the specs for the original part and finding an alternative. Pay special care that replacement connectors such as JST-PA (2.0mm) are used where they are called for.
+7. Check which parts you actually require, and those that are in stock. If an item is no longer available, it is worth reviewing the specs for the original part and finding an alternative. Pay special care that replacement connectors such as JST-PH (2.0mm) are used only where they are called for.
 <details>
  <summary> &nbsp;Show me </summary>
  
@@ -85,6 +85,8 @@ The following items require specific attention:
  - Likewise, ETH and ETHS are pins and sockets for the ethernet pads. Choose one only.
  - 2.54mm pin headers for UART2, UART4 and I2C are offered as an option, or 2.00mm pin headers are available in the same physical space. 2.54mm pins are designated with _HDR at the end. Choose one or the other.
  - Choose one of the 30db and 22db versions of the E22 module only.
+ - The capacitor at C10 is optional, but provides holes for adding a through-hole electrolytic capacitor if stability is an issue.
+
 8. Once the correct parts are chosen, check the 2D and 3D renders of the board to check that all modules are in the correct locations.
 <details>
  <summary> &nbsp;Show me </summary>
