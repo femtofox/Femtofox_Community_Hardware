@@ -11,6 +11,10 @@ These are some designs for a bracket to hold the IPEX/u.fl connector in place. T
 
 There are files for two variants of an SMA wrench, too.
 
+![topside brackets](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/3d-prints/topside_bracket.webp)
+
+![underside brackets](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/3d-prints/underside_bracket.webp)
+
 ### Antenna mounts
 ![antenna mounts](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/3d-prints/antenna%20mount.webp)
 
@@ -19,6 +23,9 @@ There are files for two variants of an SMA wrench, too.
 
 ### Mounting brackets and nut
 ![Mounting brackets and nut](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/3d-prints/mounting%20brackets.webp)
+
+### 3- and 4-sided mounting brackets and a corner nut
+![Mounting brackets and nut](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/3d-prints/3-4-sided_brackets.webp)
 
 ### Antenna wrench
 ![Antenna wrench](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/3d-prints/antenna%20wrench.webp)
