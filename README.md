@@ -175,7 +175,7 @@ Nevertheless, there are some key components which form the "minimum requirement"
 <summary> 
 ### E22-30db</summary> 
 
-
+![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_E22-30db.webp)
 
 </details>
 
@@ -183,17 +183,21 @@ Nevertheless, there are some key components which form the "minimum requirement"
 <summary> 
 ### E22-22db </summary> 
 
+![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_E22-22db.webp)
+
 </details>
 <details>
 <summary> 
 ### Seeed Wio SX1262</summary> 
 
+![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_Seeed_WIO.webp)
+
 </details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI5ODg5NzYsLTEyOTAzNTgwNDAsMT
-c0MjY5NzA4LC0xNDU0OTQzOTc0LC04NDQ4NzY3NDQsLTE3OTkz
-OTE2MzAsMTE0NTMwNzMwLC0xMDAxOTk3ODM1LDEzNTE2OTg5Nz
-QsMjQyNTc5NzgzLDE2NDI5MTUxMjYsLTE1NTc2MzA0OTgsMzky
-NzcxMzg2LC0yMTAwMDQ5NTBdfQ==
+eyJoaXN0b3J5IjpbMzMzNjE0MDkwLC0xMjkwMzU4MDQwLDE3ND
+I2OTcwOCwtMTQ1NDk0Mzk3NCwtODQ0ODc2NzQ0LC0xNzk5Mzkx
+NjMwLDExNDUzMDczMCwtMTAwMTk5NzgzNSwxMzUxNjk4OTc0LD
+I0MjU3OTc4MywxNjQyOTE1MTI2LC0xNTU3NjMwNDk4LDM5Mjc3
+MTM4NiwtMjEwMDA0OTUwXX0=
 -->
