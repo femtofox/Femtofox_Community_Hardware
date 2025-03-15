@@ -165,10 +165,15 @@ Note:
 [^1]:The choice of capacitors (* or \**) depends on the choice of radio module
 [^2]:These are options for the TVS diode, either † or ‡
 [^3]:The choice of radio module (* or \**) affects the choice of capacitors
+
+## Making the board
+It is assumed that if you are making the board yourself, you have sufficient expertise to be able to do this, either by hand-soldering, hot-air or hotplate.
+
+Nevertheless, there are some key components whic ha
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTAzNTgwNDAsMTc0MjY5NzA4LC0xND
-U0OTQzOTc0LC04NDQ4NzY3NDQsLTE3OTkzOTE2MzAsMTE0NTMw
-NzMwLC0xMDAxOTk3ODM1LDEzNTE2OTg5NzQsMjQyNTc5NzgzLD
-E2NDI5MTUxMjYsLTE1NTc2MzA0OTgsMzkyNzcxMzg2LC0yMTAw
-MDQ5NTBdfQ==
+eyJoaXN0b3J5IjpbMTM0NDc3OTQsLTEyOTAzNTgwNDAsMTc0Mj
+Y5NzA4LC0xNDU0OTQzOTc0LC04NDQ4NzY3NDQsLTE3OTkzOTE2
+MzAsMTE0NTMwNzMwLC0xMDAxOTk3ODM1LDEzNTE2OTg5NzQsMj
+QyNTc5NzgzLDE2NDI5MTUxMjYsLTE1NTc2MzA0OTgsMzkyNzcx
+Mzg2LC0yMTAwMDQ5NTBdfQ==
 -->
