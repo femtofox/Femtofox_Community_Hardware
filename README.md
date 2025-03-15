@@ -186,6 +186,7 @@ Nevertheless, there are some key components which form the "minimum requirement"
 ![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_E22-22db.webp)
 
 </details>
+
 <details>
 <summary> 
 ### Seeed Wio SX1262</summary> 
@@ -195,9 +196,9 @@ Nevertheless, there are some key components which form the "minimum requirement"
 </details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzNjE0MDkwLC0xMjkwMzU4MDQwLDE3ND
-I2OTcwOCwtMTQ1NDk0Mzk3NCwtODQ0ODc2NzQ0LC0xNzk5Mzkx
-NjMwLDExNDUzMDczMCwtMTAwMTk5NzgzNSwxMzUxNjk4OTc0LD
-I0MjU3OTc4MywxNjQyOTE1MTI2LC0xNTU3NjMwNDk4LDM5Mjc3
-MTM4NiwtMjEwMDA0OTUwXX0=
+eyJoaXN0b3J5IjpbMTU1OTkyNjIzNiwtMTI5MDM1ODA0MCwxNz
+QyNjk3MDgsLTE0NTQ5NDM5NzQsLTg0NDg3Njc0NCwtMTc5OTM5
+MTYzMCwxMTQ1MzA3MzAsLTEwMDE5OTc4MzUsMTM1MTY5ODk3NC
+wyNDI1Nzk3ODMsMTY0MjkxNTEyNiwtMTU1NzYzMDQ5OCwzOTI3
+NzEzODYsLTIxMDAwNDk1MF19
 -->
