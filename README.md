@@ -169,11 +169,25 @@ Note:
 ## Making the board
 It is assumed that if you are making the board yourself, you have sufficient expertise to be able to do this, either by hand-soldering, hot-air or hotplate.
 
-Nevertheless, there are some key components whic ha
+Nevertheless, there are some key components which form the "minimum requirement" of the board. These vary depending on the radio chosen.
+
+<details>
+### E22-30db
+
+<details>
+</details>
+<summary> ### E22-22db
+
+</details>
+<details>
+### Seeed Wio SX1262
+
+</details>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDc3OTQsLTEyOTAzNTgwNDAsMTc0Mj
-Y5NzA4LC0xNDU0OTQzOTc0LC04NDQ4NzY3NDQsLTE3OTkzOTE2
-MzAsMTE0NTMwNzMwLC0xMDAxOTk3ODM1LDEzNTE2OTg5NzQsMj
-QyNTc5NzgzLDE2NDI5MTUxMjYsLTE1NTc2MzA0OTgsMzkyNzcx
-Mzg2LC0yMTAwMDQ5NTBdfQ==
+eyJoaXN0b3J5IjpbODYzMDI3MjY1LC0xMjkwMzU4MDQwLDE3ND
+I2OTcwOCwtMTQ1NDk0Mzk3NCwtODQ0ODc2NzQ0LC0xNzk5Mzkx
+NjMwLDExNDUzMDczMCwtMTAwMTk5NzgzNSwxMzUxNjk4OTc0LD
+I0MjU3OTc4MywxNjQyOTE1MTI2LC0xNTU3NjMwNDk4LDM5Mjc3
+MTM4NiwtMjEwMDA0OTUwXX0=
 -->
