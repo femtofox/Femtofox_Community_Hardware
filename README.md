@@ -162,10 +162,6 @@ The following items require specific attention:
 | HDR2.54-LI-2X4P | 4-pin header | UART4_HDR | 2.54mm pitch thru-hole pins |
 | Seeed-wio-SX1262 | LoRa Radio Module | WIO-SX1262 *[^3] | SMD module |
 
-Note: 
-[^1]:The choice of capacitors (* or \**) depends on the choice of radio module
-[^2]:These are options for the TVS diode, either † or ‡
-[^3]:The choice of radio module (* or \**) affects the choice of capacitors
 
 ## Making the board
 It is assumed that if you are making the board yourself, you have sufficient expertise to be able to do this, either by hand-soldering, hot-air or hotplate.
@@ -204,10 +200,14 @@ This module has (mostly) internal RF switching, but C3 & C4 are still used to re
 
 </details>
 
+Note: 
+[^1]:The choice of capacitors (* or \**) depends on the choice of radio module
+[^2]:These are options for the TVS diode, either † or ‡
+[^3]:The choice of radio module (* or \**) affects the choice of capacitors
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNzgxNDQzMCwyMDQ3OTc5MTA4LC0xMj
-kwMzU4MDQwLDE3NDI2OTcwOCwtMTQ1NDk0Mzk3NCwtODQ0ODc2
-NzQ0LC0xNzk5MzkxNjMwLDExNDUzMDczMCwtMTAwMTk5NzgzNS
-wxMzUxNjk4OTc0LDI0MjU3OTc4MywxNjQyOTE1MTI2LC0xNTU3
-NjMwNDk4LDM5Mjc3MTM4NiwtMjEwMDA0OTUwXX0=
+eyJoaXN0b3J5IjpbLTIwMjA4NTU2NTAsMjA0Nzk3OTEwOCwtMT
+I5MDM1ODA0MCwxNzQyNjk3MDgsLTE0NTQ5NDM5NzQsLTg0NDg3
+Njc0NCwtMTc5OTM5MTYzMCwxMTQ1MzA3MzAsLTEwMDE5OTc4Mz
+UsMTM1MTY5ODk3NCwyNDI1Nzk3ODMsMTY0MjkxNTEyNiwtMTU1
+NzYzMDQ5OCwzOTI3NzEzODYsLTIxMDAwNDk1MF19
 -->
