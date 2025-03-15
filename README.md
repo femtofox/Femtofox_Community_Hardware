@@ -173,7 +173,8 @@ Nevertheless, there are some key components which form the "minimum requirement"
 
 
 
-###  E22-30db 
+###  E22-30db
+The most important parts are A01, A02, R1, R2, C1, & C2
 <details>
  <summary> &nbsp;Show me </summary>
 ![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_E22-30db.webp)
@@ -183,7 +184,7 @@ Nevertheless, there are some key components which form the "minimum requirement"
 
 
 ### E22-22db 
-
+The most important parts are A01, A02, R1, R2, C3, & C4
 <details>
  <summary> &nbsp;Show me </summary>
 ![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_E22-22db.webp)
@@ -191,6 +192,7 @@ Nevertheless, there are some key components which form the "minimum requirement"
 </details>
 
 ### Seeed Wio SX1262
+This module has (mostly) internal RF switching, but C3 & C4 are still used to reduce voltage ripple and stabilise the power.
 
 <details>
  <summary> &nbsp;Show me </summary>
@@ -199,9 +201,9 @@ Nevertheless, there are some key components which form the "minimum requirement"
 </details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDg4NDMzLC0xMjkwMzU4MDQwLDE3ND
-I2OTcwOCwtMTQ1NDk0Mzk3NCwtODQ0ODc2NzQ0LC0xNzk5Mzkx
-NjMwLDExNDUzMDczMCwtMTAwMTk5NzgzNSwxMzUxNjk4OTc0LD
-I0MjU3OTc4MywxNjQyOTE1MTI2LC0xNTU3NjMwNDk4LDM5Mjc3
-MTM4NiwtMjEwMDA0OTUwXX0=
+eyJoaXN0b3J5IjpbMTI5MDUyNDgyMCwtMTI5MDM1ODA0MCwxNz
+QyNjk3MDgsLTE0NTQ5NDM5NzQsLTg0NDg3Njc0NCwtMTc5OTM5
+MTYzMCwxMTQ1MzA3MzAsLTEwMDE5OTc4MzUsMTM1MTY5ODk3NC
+wyNDI1Nzk3ODMsMTY0MjkxNTEyNiwtMTU1NzYzMDQ5OCwzOTI3
+NzEzODYsLTIxMDAwNDk1MF19
 -->
