@@ -6,7 +6,7 @@ Hardware for the Luckfox Pico Mini with [Foxbuntu Linux](https://github.com/femt
 * [PCB Gerber, BOM, Pick&Place](https://github.com/femtofox/Femtofox_Community_Hardware/releases)
 * [3d printable brackets etc.](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/3d_prints)
 * [Instructions on how to order](https://github.com/femtofox/Femtofox_Community_Hardware?tab=readme-ov-file#ordering-the-pcbs)
-* [Making the board - key components](https://github.com/femtofox/Femtofox_Community_Hardware?tab=readme-ov-file#Making_the_board)
+* [Making the board - key components](https://github.com/femtofox/Femtofox_Community_Hardware?tab=readme-ov-file#Making-the-board)
 
 ## Femtofox Community Edition
 ![Femtofox CE front view](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20CE%203d.png)
@@ -202,7 +202,7 @@ This module has (mostly) internal RF switching, but C3 & C4 are still used to re
 </details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzEzMDExMiwtMTI5MDM1ODA0MCwxNz
+eyJoaXN0b3J5IjpbMjA0Nzk3OTEwOCwtMTI5MDM1ODA0MCwxNz
 QyNjk3MDgsLTE0NTQ5NDM5NzQsLTg0NDg3Njc0NCwtMTc5OTM5
 MTYzMCwxMTQ1MzA3MzAsLTEwMDE5OTc4MzUsMTM1MTY5ODk3NC
 wyNDI1Nzk3ODMsMTY0MjkxNTEyNiwtMTU1NzYzMDQ5OCwzOTI3
