@@ -178,7 +178,8 @@ Nevertheless, there are some key components which form the "minimum requirement"
 The most important parts are A01, A02, R1, R2, C1, & C2
 <details>
  <summary> &nbsp;Show me </summary>
-![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_E22-30db.webp)
+ 
+![PCB with components highlighted with red arrows](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_E22-30db.webp)
 
 </details>
 
@@ -188,7 +189,8 @@ The most important parts are A01, A02, R1, R2, C1, & C2
 The most important parts are A01, A02, R1, R2, C3, & C4
 <details>
  <summary> &nbsp;Show me </summary>
-![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_E22-22db.webp)
+ 
+![PCB with components highlighted with red arrows](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_E22-22db.webp)
 
 </details>
 
@@ -197,14 +199,15 @@ This module has (mostly) internal RF switching, but C3 & C4 are still used to re
 
 <details>
  <summary> &nbsp;Show me </summary>
-![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_Seeed_WIO.webp)
+ 
+![PCB with components highlighted with red arrows](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_Seeed_WIO.webp)
 
 </details>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Nzk3OTEwOCwtMTI5MDM1ODA0MCwxNz
-QyNjk3MDgsLTE0NTQ5NDM5NzQsLTg0NDg3Njc0NCwtMTc5OTM5
-MTYzMCwxMTQ1MzA3MzAsLTEwMDE5OTc4MzUsMTM1MTY5ODk3NC
-wyNDI1Nzk3ODMsMTY0MjkxNTEyNiwtMTU1NzYzMDQ5OCwzOTI3
-NzEzODYsLTIxMDAwNDk1MF19
+eyJoaXN0b3J5IjpbMTgxNzgxNDQzMCwyMDQ3OTc5MTA4LC0xMj
+kwMzU4MDQwLDE3NDI2OTcwOCwtMTQ1NDk0Mzk3NCwtODQ0ODc2
+NzQ0LC0xNzk5MzkxNjMwLDExNDUzMDczMCwtMTAwMTk5NzgzNS
+wxMzUxNjk4OTc0LDI0MjU3OTc4MywxNjQyOTE1MTI2LC0xNTU3
+NjMwNDk4LDM5Mjc3MTM4NiwtMjEwMDA0OTUwXX0=
 -->
