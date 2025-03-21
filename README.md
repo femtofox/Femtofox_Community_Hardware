@@ -18,8 +18,8 @@ It features footprints for 3 types of radio: E22-30db, E22-22db, and the Seeed W
 If you wish to power the 3.3V line from an LDO powered by the 5V line, simply sever the connection at J1, and insert a standard 5V/3.3V/Gnd LDO on the LDO header in the top left.
 
 ### Femtofox Smol Edition
-![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20SE-RA-WIO%203d.png)
-![enter image description here](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Smol_front_side_2025-01-15.webp)
+![Femtofox small board with HT-RA62 fitted, shown in 3d](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Femtofox%20SE-RA-WIO%203d.png)
+![Femtofox small board with HT-RA62 and WIO SX1262 footprints](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Smol_front_side_2025-01-15.webp)
 
 
 A smaller board that matches a Raspberry Pi Zero, with holes to match that footprint. This is a standalone unit.
@@ -27,6 +27,19 @@ It features footprints for 3 types of radio: AI-Thinker RA-01SH, Heltec HT-RA62,
 
 ## License
 Femtofox PCB Design © 2024 by NomDeTom is licensed under CC BY-NC-ND 4.0 
+
+## Make vs. Buy
+The Femtofox Pro is available for purchase, and has several added features:
+* Arrives fully assembled
+* 4-Layer PCB allows for extra complexity
+* USB-C for power and built in serial debug, which allows for direct access to the Femtofox without network or additional hardware
+* Extra pins are mapped to the headers, allowing for easier expansion
+* An added "Kill Switch" breakout, allowing for the addition of an optional thermal fuse for added safety on solar builds
+* Additional decoupling capacitors
+
+The Femtofox CE is available with Gerber, BOM and pick&place files, which allows you to order the board assembled from the maker of your choice.
+
+![Femtofox CE vs Pro](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/ff_comparison.webp)
 
 ## Ordering the PCBs
 
