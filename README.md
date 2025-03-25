@@ -176,7 +176,7 @@ The following items require specific attention:
 | Seeed-wio-SX1262 | LoRa Radio Module | WIO-SX1262 *[^3] | SMD module |
 
 
-## Making the board
+## Making the board - Full-size Community Edition
 It is assumed that if you are making the board yourself, you have sufficient expertise to be able to do this, either by hand-soldering, hot-air or hotplate.
 
 Nevertheless, there are some key components which form the "minimum requirement" of the board. These vary depending on the radio chosen.
@@ -212,6 +212,27 @@ This module has (mostly) internal RF switching, but C3 & C4 are still used to re
 ![PCB with components highlighted with red arrows](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_CE_key_components_Seeed_WIO.webp)
 
 </details>
+
+## Making the board - Smol
+As above, it is assumed that if you are making the board yourself, you have sufficient expertise to be able to do this, either by hand-soldering, hot-air or hotplate.
+
+There are key components which form the "minimum requirement" of the board, but with judgement, almost all of these can be omitted if, for example, a separate JST 3.3-5V in is not required. 
+
+>[!NOTE]
+> The component designators are the same as the full-size CE board.
+
+The most important parts are C1, C2, C4, F1 and Q1.
+
+<details>
+ <summary> &nbsp;Show me </summary>
+ 
+![PCB with components highlighted with red arrows](https://raw.githubusercontent.com/femtofox/Femtofox_Community_Hardware/refs/heads/main/Pictures/Key-components/Femtofox_Smol_key_components_22db_RA-WIO.webp)
+
+</details>
+
+
+
+
 
 Note: 
 [^1]:The choice of capacitors (* or \**) depends on the choice of radio module
